@@ -67,5 +67,5 @@ def validar_usuario():
 
 
 if __name__ == '__main__':
-    app.run(port=9500)
+    app.run(port=5800)
 
